@@ -1,12 +1,5 @@
-OIC COFFEE & WINE WEBSITE CONCEPT
+OIC Cafe and Lounge photo update
 
-HOW TO PREVIEW
-1. Extract this ZIP.
-2. Open index.html in a web browser. Internet access is needed for Google Fonts, the Google Map, QR image and WhatsApp links.
+This folder contains an elegant, responsive gallery page and five unique optimized WebP photos. Each uploaded photo is used once in the gallery; the first photo is also used as the hero image for the page's opening visual.
 
-BEFORE PUBLISHING
-- Verify the official address, phone/WhatsApp number, opening hours and menu with the owner.
-- The reservation form opens WhatsApp with a pre-filled request; it does not confirm bookings automatically.
-- Feedback is stored only in the visitor's own browser. A shared public comment wall needs a database/backend or third-party service.
-- The QR image uses the current page URL. After hosting, generate a permanent QR code pointing to the live domain.
-- To publish, upload the extracted files to a static host such as Netlify, Vercel, or GitHub Pages. Keep the assets folder alongside index.html.
+To apply to the existing GitHub project, upload the five files in images/ to the repository under the same images/ folder and merge the updated index.html only if you intend to replace the current full page. This package is a self-contained gallery-focused page, not a verified live deployment.
